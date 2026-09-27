@@ -112,7 +112,11 @@
     <a href="https://github.com/irfanaGalfan/EMER-Multimodal-Emotion-Recognition"><code>View Repository →</code></a>
   </p>
 </td>
-    
+    <p align="center">
+    <img src="PASTE_YOUR_GITHUB_IMAGE_URL_HERE" alt="EMER Architecture / UI Screenshot" width="90%"/>
+    <img width="1871" height="1062" alt="Screenshot 2026-09-27 191318" src="https://github.com/user-attachments/assets/92b95594-74b7-4529-9100-4482d0538855" width="90%"/>
+  </p>
+
   </tr>
 </table>
 
