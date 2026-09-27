@@ -41,8 +41,8 @@ Specializing in **RAG Architectures**, **Agentic Workflows**, **Reinforcement Le
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=irfanaGalfan&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanaGalfan&layout=compact&theme=nord&hide=html,css"/>
+  <img height="160em" src="https://github-readme-stats.shion.dev/api?username=irfanaGalfan&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=irfanaGalfan&layout=compact&theme=nord&hide=html,css"/>
 </div>
 
 ---
