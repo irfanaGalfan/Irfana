@@ -48,5 +48,5 @@ Specializing in **RAG Architectures**, **Agentic Workflows**, **Reinforcement Le
 ---
 
 ### 📫 Connect With Me
-- **LinkedIn:** [linkedin.com/in/your-profile](#) <!-- Replace with your actual link -->
+- **LinkedIn:** [linkedin.com/in/irfana-zahir](#) <!-- Replace with your actual link -->
 - **GitHub:** [@irfanaGalfan](https://github.com/irfanaGalfan)
