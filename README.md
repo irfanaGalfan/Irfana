@@ -89,6 +89,23 @@
       </p>
     </td>
   </tr>
+  <tr>
+  <td width="50%" valign="top">
+      <h3 align="center">🎯 EMER-Multimodal Emotion Recognition</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Focus-Reinforcement_Learning-green?style=flat-square" />
+      </p>
+      <p>Adaptive testing engine powered by Q-learning that dynamically calculates optimal student assessment paths.</p>
+      <ul>
+        <li>Q-Learning Reward Optimization</li>
+        <li>Real-Time Analytics Dashboard</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/irfanaGalfan/EMER-Multimodal-Emotion-Recognition.git"><code>View Repository →</code></a>
+      </p>
+    </td>
+    
+  </tr>
 </table>
 
 <br />
