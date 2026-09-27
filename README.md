@@ -1,52 +1,25 @@
-# Irfana
-# Hi there, I'm Irfana 👋
-
-**Applied AI Engineer & Computer Science Educator** based in the UAE 🇦🇪  
-Specializing in **RAG Architectures**, **Agentic Workflows**, **Reinforcement Learning**, and **Cloud Data Systems**.
-
----
-
-### 🚀 What I Do
-- 🧠 **Applied AI & LLMs:** Building enterprise RAG applications and agentic workflows using Azure AI Foundry and Azure AI Search.
-- ⚙️ **Data Engineering:** Designing scalable streaming and data pipelines using Apache Spark, Docker, and Cloud infrastructure.
-- 🎓 **AI Education:** Translating complex computer science and AI concepts into clear, structured, real-world implementations.
-
----
-
-### 🛠️ Tech Stack & Capabilities
-
-| Area | Technologies & Tools |
-| :--- | :--- |
-| **AI / Machine Learning** | Python, RAG Architectures, Q-Learning / RL, Computer Vision, Prompt Engineering |
-| **Cloud & Azure AI** | Azure AI Foundry, Azure AI Search, Azure Services, Streamlit UI |
-| **Data & Infrastructure** | Apache Spark, Apache Kafka, Docker, PySpark, SQL |
-| **Developer Tools** | Git/GitHub, n8n Automation, REST APIs, VS Code |
-
----
-
-### 🌟 Featured Projects
-
-#### 🤖 AgentCS — Cambridge Computer Science AI Assistant
-*An intelligent RAG system built with Azure AI Foundry, Azure AI Search, and Streamlit.*
-- **Key Features:** Hybrid vector retrieval, context-aware query processing, and automated revision workflows.
-- **Tech:** `Python` `Azure AI Search` `Azure AI Foundry` `Streamlit`
-
-#### 🎯 Spotlight AI — Adaptive Learning Platform
-*A real-time adaptive testing engine powered by Reinforcement Learning.*
-- **Key Features:** Q-learning algorithm that dynamically adjusts question difficulty based on individual performance curves.
-- **Tech:** `Python` `Q-Learning` `Data Modeling`
-
----
-
-### 📈 GitHub Stats
-
+<!-- HEADER BANNER WITH ANIMATED TYPING HEADER -->
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.shion.dev/api?username=irfanaGalfan&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=irfanaGalfan&layout=compact&theme=nord&hide=html,css"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Applied+AI+Engineer;Azure+Cloud+%26+RAG+Architect;Data+Engineering+%26+Spark;Computer+Science+Educator" alt="Typing Header" />
+  
+  <p align="center">
+    <b>Architecting Enterprise AI Systems • Scaling Data Pipelines • Educating the Next Generation</b>
+  </p>
+
+  <!-- SOCIAL / PROFILE BADGES (Custom Glass Style) -->
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/irfanaGalfan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
+<br />
+
 ---
 
-### 📫 Connect With Me
-- **LinkedIn:** [linkedin.com/in/irfana-zahir](#) <!-- Replace with your actual link -->
-- **GitHub:** [@irfanaGalfan](https://github.com/irfanaGalfan)
+### ⚡ Technical Capabilities Matrix
