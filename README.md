@@ -85,7 +85,7 @@
         <li>Real-Time Analytics Dashboard</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/irfanaGalfan/SpotlightAI.git)"><code>View Repository →</code></a>
+        <a href="https://github.com/irfanaGalfan/SpotlightAI.git"><code>View Repository →</code></a>
       </p>
     </td>
   </tr>
