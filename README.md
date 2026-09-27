@@ -91,19 +91,27 @@
   </tr>
   <tr>
   <td width="50%" valign="top">
-      <h3 align="center">🎯 EMER-Multimodal Emotion Recognition</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Focus-Reinforcement_Learning-green?style=flat-square" />
-      </p>
-      <p>Adaptive testing engine powered by Q-learning that dynamically calculates optimal student assessment paths.</p>
-      <ul>
-        <li>Q-Learning Reward Optimization</li>
-        <li>Real-Time Analytics Dashboard</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/irfanaGalfan/EMER-Multimodal-Emotion-Recognition.git"><code>View Repository →</code></a>
-      </p>
-    </td>
+  <h3 align="center">🎯 EMER - Multimodal Emotion Recognition</h3>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Focus-Multimodal_AI-blue?style=flat-square" alt="Focus Badge"/>
+    <img src="https://img.shields.io/badge/Framework-PyTorch-orange?style=flat-square" alt="PyTorch Badge"/>
+    <img src="https://img.shields.io/badge/Interface-Streamlit-red?style=flat-square" alt="Streamlit Badge"/>
+  </p>
+
+  <p>
+    Deep learning architecture for real-time affective state classification and emotion recognition utilizing facial, vocal, and textual features.
+  </p>
+
+  <ul>
+    <li><b>Multimodal Processing:</b> Real-time feature extraction and affective state classification.</li>
+    <li><b>Interactive Dashboard:</b> Live inference and visual analytics powered by Streamlit.</li>
+  </ul>
+
+  <p align="center">
+    <a href="https://github.com/irfanaGalfan/EMER-Multimodal-Emotion-Recognition"><code>View Repository →</code></a>
+  </p>
+</td>
     
   </tr>
 </table>
