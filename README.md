@@ -23,3 +23,84 @@
 ---
 
 ### ⚡ Technical Capabilities Matrix
+┌───────────────────────────────────────────────────────────────────────────┐
+│ [01] APPLIED AI & LLM SYSTEMS                                            │
+│  ├─ Architectures: RAG, Agentic Workflows, Q-Learning (RL)               │
+│  └─ Frameworks:    Azure AI Foundry, Azure AI Search, PyTorch              │
+│                                                                           │
+│ [02] DATA & CLOUD INFRASTRUCTURE                                          │
+│  ├─ Platforms:    Apache Spark, PySpark, Docker, Kafka, SQL              │
+│  └─ Cloud Ecosystem: Azure Cloud, Containerized Workflows, REST APIs      │
+└───────────────────────────────────────────────────────────────────────────┘
+<br />
+
+### 🛠️ Interactive Tech Stack Wall
+
+<div align="center">
+  <!-- AI / ML -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_AI_Search-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <br />
+  <!-- Data & Cloud -->
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n_Automation-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+</div>
+
+<br />
+
+### 🔮 Featured Architectures & Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AgentCS</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Focus-Enterprise_RAG-blue?style=flat-square" />
+      </p>
+      <p>System context-aware retrieval-augmented generation built on Azure AI Foundry and Azure AI Search for Cambridge CS prep.</p>
+      <ul>
+        <li>Hybrid Vector & Keyword Indexing</li>
+        <li>Streamlit Interactive Interface</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/irfanaGalfan"><code>View Repository →</code></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎯 Spotlight AI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Focus-Reinforcement_Learning-green?style=flat-square" />
+      </p>
+      <p>Adaptive testing engine powered by Q-learning that dynamically calculates optimal student assessment paths.</p>
+      <ul>
+        <li>Q-Learning Reward Optimization</li>
+        <li>Real-Time Analytics Dashboard</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/irfanaGalfan"><code>View Repository →</code></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### 🐍 GitHub Activity Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/irfanaGalfan/irfanaGalfan/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</div>
+
+<br />
+
+### 📊 Real-Time GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanaGalfan&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=irfanaGalfan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
