@@ -95,9 +95,7 @@
 
 ### 🐍 GitHub Activity Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/irfanaGalfan/irfanaGalfan/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</div>
+<img src="https://raw.githubusercontent.com/irfanaGalfan/Irfana/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 
 <br />
 
