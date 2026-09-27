@@ -23,6 +23,8 @@
 ---
 
 ### ⚡ Technical Capabilities Matrix
+
+```
 ┌───────────────────────────────────────────────────────────────────────────┐
 │ [01] APPLIED AI & LLM SYSTEMS                                            │
 │  ├─ Architectures: RAG, Agentic Workflows, Q-Learning (RL)               │
@@ -32,6 +34,7 @@
 │  ├─ Platforms:    Apache Spark, PySpark, Docker, Kafka, SQL              │
 │  └─ Cloud Ecosystem: Azure Cloud, Containerized Workflows, REST APIs      │
 └───────────────────────────────────────────────────────────────────────────┘
+```
 <br />
 
 ### 🛠️ Interactive Tech Stack Wall
